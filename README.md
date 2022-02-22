@@ -1,4 +1,4 @@
-Implementation of Monkey programming language defined in [Writing an Interpreter in Go](www.interpreterbook.com).
+Implementation of Monkey programming language defined in [Writing an Interpreter in Go](https://www.interpreterbook.com).
 
 Running this:
 
